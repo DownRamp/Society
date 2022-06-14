@@ -1,3 +1,5 @@
 geocoder
 streamlit
 pysondb
+streamlit_autorefresh
+matplotlib
